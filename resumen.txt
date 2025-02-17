@@ -1,0 +1,2 @@
+Resumen actualizado con validaciones de instancias y funcionalidad de reservas:
+Cliente: Amiel - Email: amiel@gmail.com
